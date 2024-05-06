@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>E:/academics/3-2/ECE 3208/project/arekta same design (main)/uwb vivaldi final/Model/DS</BasePath>
+    <Block ForeignId="344415410" Id="1" Class="MWSSCHEM">
+        <Size Height="150" Width="150"/>
+        <Pins>
+            <Pin X="-75" Y="0" Index="0" BlockPosition="Left">
+                <Label>1</Label>
+            </Pin>
+        </Pins>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib">
+            <Size Height="886" Width="1158"/>
+        </Image>
+        <Pos X="75" Y="75"/>
+        <ToolTip>CST MICROWAVE STUDIO schematic block MWSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

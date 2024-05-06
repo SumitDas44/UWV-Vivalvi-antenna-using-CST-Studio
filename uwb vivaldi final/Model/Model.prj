@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.3 - Jan 18 2019 - ACIS 28.0.2 -
+[Author]
+Sumit
+[Mesh Cells]
+9,805,212
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:uwb vivaldi final.cst?04055dc6444071b9631f7980cd168a75?90630:numberofparameters=4:port=1>mode=1>zre=0>zim=0:::xmax?xmin?ymax?ymin
+[Comment]

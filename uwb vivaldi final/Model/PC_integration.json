@@ -1,0 +1,25 @@
+{
+   "inputVariables": [
+      {
+         "name": "xmin",
+         "type": "float",
+         "value": -75.0
+      },
+      {
+         "name": "xmax",
+         "type": "float",
+         "value": 75.0
+      },
+      {
+         "name": "ymin",
+         "type": "float",
+         "value": -75.0
+      },
+      {
+         "name": "ymax",
+         "type": "float",
+         "value": 75.0
+      }
+   ],
+   "outputVariables": []
+}
